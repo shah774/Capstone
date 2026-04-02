@@ -1,29 +1,3 @@
-# Savvy Coders Project Boilerplate Starter Kit
-
-## Overview
-
-This template repository contains several opinionated, 'starter' files and settings to help Savvy Coder students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
-
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
-
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-3. [Prettier](prettier.io)
-
-## Get Started
-
-**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per the instructions in the curriculum.
-
-Well, after establishing your directory structure on your local machine, (e.g. '~/Code/SavvyCoders'), clone the Savvy Starter Repo - essentially, there should be a button that says **Use this template.**
-
-> [Read more about using templates on GitHub here...](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-
-Once this repo has been created on your GitHub, you can click on the button to 'clone' it as usual.
-
-Once it's `clone`d to your local machine, `cd` into the directory and **be sure to do:** `npm i` to get all of the dependencies installed. If you see any _errors_ (warnings are OK) on Windows, you may have to do `npm install`.
-
-Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom `right` of your screen). You should install these.
-
-In your repo, feel free to update this README and make any other initial changes to files, etc. Then go ahead and do your usual `git` steps -- add, commit, and push.
-
-**Note:** This is a template repository, no need to 'fork it.
+I want to build an application that supports people for dental assistance since insurance is not really effective and you would still have to pay out of pocket for any treatment, where in the facility I am designing it is most likely not going to focus on insurance for patients rather than helping treat them well, make the process very easy and appointments quicker than it would take usually, also would have emergency rooms where people are prioritized with expedite help, my application is going to utilized by customers and people who want to recover from a dental pain as soon as possible, there won’t be bunch of questions asked from doctors or nurses, people are going to be very accurate and on point when having conversation to patients and accommodative in any aspect they need help, and the way my first page is going to look like is there would be contact info of how to reach out, and support team where people could interact through messages, and of course how the page looks like, a picture of hospital, so the way first page would exhibit is the info about work hours and the second page would be the treatment of patients, the process or a heads-up to customers what they are going to face more likely,  and the third page would be the check-in and check-out form where people would do it before coming in the facility so doctors know who has to served accordingly. The purpose of my application is to minimize the tasks of calls received to make appointments rather do it online and check-in when you get to the facility without even discussing any issues and could be treated the same day. In my opinion maintaining healthy teeth is crucial, and by having patients to have their teeth checked for cavities or a wash every 5-6 months is magnificent.
+https://app.mural.co/t/mshah6608/m/mshah6608/1773163182561/2b8fd37967ce4ac3774fa34104bafadae3ef80cd
+The strength of my application is that it would be unique on its own, not having complexity to browse, a special design that is different, and of course the fundamentals, the weakness I would see is the first application without having a lot of ideas to decorate and make it look fancy, opportunities in my application is the easy access, and the threats would be existing applications and even worse if it is the same idea.
