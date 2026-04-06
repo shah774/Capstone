@@ -1,4 +1,3 @@
-export { default as header } from "./header";
-export { default as main } from "./main";
-export { default as nav } from "./nav";
-export { default as footer } from "./footer";
+export { default as about } from "./about";
+export { default as home } from "./home";
+export { default as viewNotFound } from "./viewNotFound";
