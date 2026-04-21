@@ -37,7 +37,7 @@ router.on({
     // match.data.view will be 'about-me'
     // Using Lodash's camelCase to convert kebab-case to camelCase:
     // 'about-me' becomes 'aboutMe'
-    const view = match?.data?.view ? camelCase(match.data.view)
+    const view = match?.data?.view ? camelCase(match.data.view):"";
 
    // If the store import/object has a key named after the view
    if (view in store) {

@@ -2,8 +2,8 @@ import html from "html-literal";
 
 export default state => html`
   <section id="jumbotron">
-    <h2>SavvyCoders JavaScript Fullstack Bootcamp</h2>
-    <a href="index.html">"Call to Action" "Button"</a>
+    <h2>Welcome to the Dentistry</h2>
+    <a href="index.html">"Schedule an Appointment"</a>
   </section>
   <h3>
     The weather in ${state.weather.city} is ${state.weather.description}.
