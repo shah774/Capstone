@@ -5,9 +5,5 @@ export default state => html`
     <h2>Welcome to the Dentistry</h2>
     <a href="index.html">"Schedule an Appointment"</a>
   </section>
-  <h3>
-    The weather in ${state.weather.city} is ${state.weather.description}.
-    Temperature is ${state.weather.temp}F, and it feels like
-    ${state.weather.feelsLike}F.
-  </h3>
+  <h3></h3>
 `;

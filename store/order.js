@@ -1,4 +1,5 @@
 export default {
-    header: "Order Page",
-    view: "order"
-}
+  header: "",
+  view: "order",
+  appointments: []
+};
