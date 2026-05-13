@@ -1,10 +1,12 @@
 import mongoose from "mongoose";
 
 const appointmentSchema = new mongoose.Schema({
-  username: String,
-  id: Number,
-  isMember: Boolean,
-  appointmentTime: Date,
+  patient:String,
+  form:String,
+  treatment:String,
+  existing:Boolean,
+  new:Boolean,
+
 })
 
 const User = mongoose.model("User", appointmentSchema);
